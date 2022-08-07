@@ -145,7 +145,7 @@
             this.Controls.Add(this.sendMessageButton);
             this.Controls.Add(this.messageBox);
             this.Name = "ChatClient";
-            this.Text = "Form1";
+            this.Text = "Chat";
             this.ResumeLayout(false);
             this.PerformLayout();
 
